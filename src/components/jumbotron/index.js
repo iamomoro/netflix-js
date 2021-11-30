@@ -1,5 +1,5 @@
-import react from 'react';
-import {Inner} from './styles/jumbotron';
+import React from 'react';
+import { Inner } from './styles/jumbotron';
 
 export default function Jumbotron() {
     return (
