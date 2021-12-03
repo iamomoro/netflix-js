@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "eslint": "^8.3.0",
     "firebase": "^9.5.0",
     "fuse.js": "^6.4.6",
     "normalize.css": "^8.0.1",
@@ -43,6 +42,16 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^2.5.0",
+    "prettier": "^2.5.0",
     "prettier-eslint": "^13.0.0"
   }
 }
