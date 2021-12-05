@@ -1,4 +1,4 @@
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-01:12:00 - Footer component
+01:43:29 - VSCode tip for importing
