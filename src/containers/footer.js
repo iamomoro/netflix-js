@@ -35,9 +35,9 @@ export function FooterContainer() {
           {/* <Footer.Link href="#">Legal Notices</Footer.Link>
           <Footer.Link href="#">Redeem Git Cards</Footer.Link> */}
         </Footer.Column>
-
-        
       </Footer.Row>
+      <Footer.Break />
+      <Footer.Text>Netflix Kenya</Footer.Text>
     </Footer>
   );
 }
