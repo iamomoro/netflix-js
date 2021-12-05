@@ -1,4 +1,69 @@
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-01:43:29 - VSCode tip for importing
+02:04:14 - Opt-form component creation
+02:16:55 - Opt-form component review
+02:22:06 - Constants - routes
+02:28:57 - Pages: Home, Browse, SignIn, SignUp
+02:31:04 - Creating React Router Routes
+02:33:23 - Header component
+03:09:10 - Template review
+03:10:16 - Firebase connection
+03:24:14 - React Context for Firebase
+03:28:56 - SignIn Page
+03:54:52 - Firebase top level authentication
+03:58:56 - Firebase console authentication
+04:00:25 - Debugging error auth (if user is in the db or not)
+04:01:51 - SignUp Page
+04:09:22 - Registration page, routes debugging
+04:14:42 - Navigation
+04:16:00 - Helpers: routes (React router auth)
+04:26:21 - Protect routes
+04:36:24 - Creating an auth listener (custom hook)
+04:40:00 - Tip around authentication state changing
+04:44:19 - Helpers routes review
+04:47:18 - Browse page (categories films & series) component
+04:49:32 - Custom hook:browse page
+04:58:02 - Utils directory and setup
+05:05:39 - Browse container
+05:07:19 - Profiles container
+05:12:34 - Profiles component
+05:22:06 - Loading profile component
+05:31:54 - Spinner review
+05:43:19 - Header profile
+06:10:50 - Header profile: dropdown, chevron
+06:15:45 - Header search styling
+06:29:55 - Header play button style
+06:35:00 - Card list (categories, slides) - films & series logic
+06:55:33 - Entities logic start
+06:58:18 - Player component and Card component styling
+07:00:58 - Movie recommendations
+07:01:01 - Feature component (showing)
+07:03:49 - Passing props into our Feature (item obj)
+07:06:16 - More styling on the card style
+07:20:17 - Debugging the slides
+07:30:18 - Debugging play button and card
+07:33:07 - Player component
+07:48:25 - Review player video
+07:49:00 - Live search using Fuse.js
+07:53:09 - Review our project!
+07:56:44 - Testing setup
+08:02:39 - Player test
+08:16:04 - Footer test
+08:20:19 - Accordion test
+08:27:44 - Card test
+08:37:24 - Feature test
+08:41:24 - Form test
+08:49:24 - Opt form test
+08:52:04 - Player test
+08:52:39 - Loading test
+08:57:09 - Profile test
+09:01:29 - Jumbotron test
+09:06:04 - Header test
+09:23:19 - Home page test
+09:32:44 - Profiles test
+09:34:24 - Adding test-ids to Profiles
+09:35:39 - Selection filter test
+09:45:24 - SignIn Test
+09:55:49 - SignUp Test
+09:59:29 - Review and sign off!
