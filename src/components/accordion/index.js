@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import React, { useState, useContext, createContext } from 'react';
 import { Container, Frame, Title, Item, Inner, Header, Body } from './styles/accordion';
 
@@ -35,7 +34,7 @@ Accordion.Header = function AccordionHeader({ children, ...restProps }) {
 
   return (
     <Header
-      onClick={() => setToggleShow((toggleShow) => !toggleShow)}
+      onClick={() => setToggleShow(!toggleShow)}
       {...restProps}
     >
       {children}
