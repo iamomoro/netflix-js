@@ -1,5 +1,5 @@
-import react from "react";
-import { Container } from "../../accordion/styles/accordion";
+import React from 'react';
+import { Container, Input, Button, Text } from './styles/opt-form';
 
 export default function OptForm ({ children, ...restProps }) {
     return <Container { ...restProps} > {children} </Container>;
