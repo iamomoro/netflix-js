@@ -7,8 +7,10 @@ export default function App() {
   return (
     <Router>
       <Routes>
-        <Route path={ROUTES.HOME} />
-         
+        <Route path="/" element={<Home />} />
+        <Route path="Browse" element={<Browse />} />
+        <Route path="Signin" element={<Signin />} />
+        <Route path="Signup" element={<Signup />} />
       </Routes>
     </Router>
   );
