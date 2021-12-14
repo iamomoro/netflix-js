@@ -1,9 +1,6 @@
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-02:22:06 - Constants - routes
-02:28:57 - Pages: Home, Browse, SignIn, SignUp
-02:31:04 - Creating React Router Routes
 02:33:23 - Header component
 03:09:10 - Template review
 03:10:16 - Firebase connection
