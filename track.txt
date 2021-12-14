@@ -3,8 +3,6 @@ https://www.youtube.com/watch?v=x_EEwGe-a9o&t=963s
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-
-03:09:10 - Template review
 03:10:16 - Firebase connection
 03:24:14 - React Context for Firebase
 03:28:56 - SignIn Page
