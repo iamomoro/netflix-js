@@ -1,7 +1,6 @@
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-02:33:23 - Header component
 03:09:10 - Template review
 03:10:16 - Firebase connection
 03:24:14 - React Context for Firebase
