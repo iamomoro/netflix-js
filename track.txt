@@ -1,8 +1,6 @@
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-02:04:14 - Opt-form component creation
-02:16:55 - Opt-form component review
 02:22:06 - Constants - routes
 02:28:57 - Pages: Home, Browse, SignIn, SignUp
 02:31:04 - Creating React Router Routes
