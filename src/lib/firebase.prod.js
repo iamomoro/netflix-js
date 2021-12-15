@@ -6,3 +6,9 @@ import 'firebase/auth';
 
 //we need a config here
 
+const config = {};
+
+const firebase = Firebase.initializeApp(config);
+
+export {firebase};
+
