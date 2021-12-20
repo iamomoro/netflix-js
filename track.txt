@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=x_EEwGe-a9o&t=963s
 00:58:55 - Installing ESLint, Prettier
 add prettier & eslint.json files
 -----------------------------------------------
-03:10:16 - Firebase connection---3:12:53(firebaseconnectionissue)
+03:10:16 - Firebase connection---3:12:53(firebaseconnectionissue2)
 03:24:14 - React Context for Firebase
 03:28:56 - SignIn Page
 03:54:52 - Firebase top level authentication
