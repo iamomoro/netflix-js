@@ -1,3 +1,6 @@
+import firebase from 'firebase/app';
+import 'firebase/firestore';
+
 export function seedDatabase(firebase) {
   function getUUID() {
     // eslint gets funny about bitwise
